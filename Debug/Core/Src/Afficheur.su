@@ -1,0 +1,4 @@
+Afficheur.c:11:6:affiche_dec	24	static
+Afficheur.c:26:6:show_tens	16	static
+Afficheur.c:121:6:show_ones	16	static
+Afficheur.c:216:6:show_error	8	static
